@@ -36,11 +36,7 @@ postgresql
 screenfetch
 whois
 zip
-wireless-regdb
-wireless-tools
 wireshark
-wireshark-common
-wireshark-qt
 virtualbox
 unetbootin
 unetbootin-translations
@@ -71,7 +67,6 @@ dpkg
 
 #lamp
 apache2
-mariadb-server
 mysql-server
 php7.2 libapache2-mod-php7.2 php-mysql
 php-curl 
