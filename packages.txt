@@ -99,3 +99,9 @@ libpq-dev libsvn-dev
 perl
 libwww-perl
 libxml-rss-perl
+
+#new
+
+pcmanfm
+python-django
+
