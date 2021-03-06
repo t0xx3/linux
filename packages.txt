@@ -61,6 +61,7 @@ anacron
 adobe-flashplugin
 dpkg
 filezilla
+enginmail
 
 #lamp
 apache2
