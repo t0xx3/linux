@@ -62,6 +62,7 @@ adobe-flashplugin
 dpkg
 filezilla
 enginmail
+bleachbit
 
 #lamp
 apache2
