@@ -37,7 +37,6 @@ screenfetch
 whois
 zip
 wireshark
-virtualbox
 unrar
 unshield
 unzip
