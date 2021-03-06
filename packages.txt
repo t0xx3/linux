@@ -63,6 +63,7 @@ dpkg
 filezilla
 enginmail
 bleachbit
+gparted
 
 #lamp
 apache2
