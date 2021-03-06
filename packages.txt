@@ -38,9 +38,6 @@ whois
 zip
 wireshark
 virtualbox
-unetbootin
-unetbootin-translations
-uno-libs3
 unrar
 unshield
 unzip
@@ -53,7 +50,6 @@ torsocks
 tar
 tcpd
 tcpdump
-teamviewer
 sublime-text
 resolvconf
 nethogs
@@ -105,4 +101,3 @@ libxml-rss-perl
 
 pcmanfm
 python-django
-
