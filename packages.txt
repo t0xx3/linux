@@ -73,6 +73,7 @@ php-zip
 php-mbstring 
 php-xml 
 php-xmlrpc
+phpmyadmin
 
 #Ruby
 ruby
