@@ -12,6 +12,7 @@ python3-setuptools
 # app
 nmap
 pidgin
+pidgin-otr
 firefox
 hydra
 crunch
