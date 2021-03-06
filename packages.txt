@@ -64,6 +64,7 @@ aircrack-ng
 anacron
 adobe-flashplugin
 dpkg
+filezilla
 
 #lamp
 apache2
