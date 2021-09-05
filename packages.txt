@@ -8,7 +8,7 @@ python3-dev
 python3-venv
 python3-pip
 python3-setuptools
-python-django
+Django
 
 # app
 nmap
@@ -17,7 +17,6 @@ pidgin-otr
 firefox
 hydra
 crunch
-snapd
 network-manager-openvpn-gnome
 macchanger
 masscan
@@ -62,14 +61,13 @@ anacron
 adobe-flashplugin
 dpkg
 filezilla
-enginmail
 bleachbit
 gparted
 
 #lamp
 apache2
 mysql-server
-php7.2 libapache2-mod-php7.2 php-mysql
+php-mysql
 php-curl 
 php-json 
 php-cgi 
